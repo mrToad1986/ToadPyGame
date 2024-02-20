@@ -1,0 +1,4 @@
+GAME_TITLE = 'ToadPyGame'
+VERSION = '1.0.0'
+
+WIN_SIZE = (1024, 768)
