@@ -22,7 +22,8 @@ circle_y = screen_height/2
 circle_radius = 50
 pygame.draw.circle(screen, yellow_mellon, (circle_x, circle_y), circle_radius)
 
-
+hr_line_y = 400
+pygame.draw.line(screen, blue, (50, hr_line_y), (590, hr_line_y), 5)
 
 while True:
     for event in pygame.event.get():
