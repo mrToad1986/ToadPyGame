@@ -17,7 +17,7 @@ for i in range(1, 6):
 
 # параметры анимации
 animation_length = len(frame_images)
-animation_speed = 6  # кадры в секунду
+animation_speed = 8  # кадры в секунду
 current_frame_index = 0
 animation_timer = 0
 frame_position = [0, 0]
